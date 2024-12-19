@@ -15,7 +15,7 @@ printf("Soğuk bir kış akşamıydı\nKar giderek şiddetleniyordu. 2 kardeş b
           //İbrahim TEK
           //Sıla Kuzan
           //Emine Zehra Köseoğlu
-          //Muhammed eren zengel
+         printf("Gecenin soğunda yıldızları izlerken meşrubatlarımızı içiyorduk..."); //Muhammed eren zengel
           //Ömer Faruk korkunç
           printf("Soğukta uykuya daldılar.\n"); //Aminenur CAN
           //BERRA ADISLI
